@@ -1,5 +1,5 @@
 # Hello World For Angular 2
-A simple hello world project for angular2.
+A simple hello world project for Angular 2.
 ## Notes
 To Install:
 
